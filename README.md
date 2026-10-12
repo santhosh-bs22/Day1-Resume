@@ -1,1 +1,1 @@
-# Day1-Resume
+# Day1-Resume Doodle blue training assignment create HTML and CSS
